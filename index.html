@@ -1,0 +1,431 @@
+<head>
+
+<meta charset="utf8" />
+
+<title>Forschung zur Kapuziner-Bibliothek Paderborn</title>
+
+<link rel="icon" type="image/svg+xml" href="book.svg">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1/dist/leaflet.css"
+integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+crossorigin=""/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+<link rel="stylesheet" href="https://unpkg.com/normalize.css@7/normalize.css" crossorigin=""/>
+
+<style>
+
+  .help > *:last-child {
+    display: none;
+  }
+
+  .help.open > *:last-child {
+    display: block;
+  }
+
+  .bruges-novgorod-tooltip {
+    font-size: 0.9em;
+    background: none;
+    border: none;
+    box-shadow: none;
+    text-shadow: 0 0 1em white, 0 0 1em white, 0 0 1em white;
+    font-weight: bold;
+  }
+  .bruges-novgorod-tooltip::before {
+    display: none;
+  }
+  .paderborn-tooltip {
+    background: none;
+    border: none;
+    box-shadow: none;
+    font-weight: bold;
+    text-shadow: 0 0 1em white, 0 0 1em white, 0 0 1em white;
+  }
+  .paderborn-tooltip::before {
+    display: none;
+  }
+  .book-icon svg {
+    background: none;
+    border: none;
+    width: 1.5em;
+    height: 1.5em;
+  }
+
+  .book-icon.A svg {
+    fill: #C62828;
+  }
+
+  .book-icon.B svg {
+    fill: #AD1457;
+  }
+
+  .book-icon.C svg {
+    fill: #6A1B9A;
+  }
+  
+  .book-icon.D svg {
+    fill: #4527A0;
+  }
+  
+  .book-icon.E svg {
+    fill: #283593;
+  }
+  
+  .book-icon.F svg {
+    fill: #1565C0;
+  }
+  
+  .book-icon.G svg {
+    fill: #0277BD;
+  }
+  
+  .book-icon.H svg {
+    fill: #00838F;
+  }
+  
+  .book-icon.I svg {
+    fill: #00695C;
+  }
+  
+  .book-icon.J svg {
+    fill: #2E7D32;
+  }
+  
+  .book-icon.K svg {
+    fill: #558B2F;
+  }
+  
+  .book-icon.L svg {
+    fill: #9E9D24;
+  }
+  
+  .book-icon.M svg {
+    fill: #F9A825;
+  }
+  
+  .book-icon.N svg {
+    fill: #FF8F00;
+  }
+  
+  .book-icon.O svg {
+    fill: #EF6C00;
+  }
+  
+  .book-icon.P svg {
+    fill: #D84315;
+  }
+  
+  .book-icon.Q svg {
+    fill: #4E342E;
+  }
+  
+  .book-icon.R svg {
+    fill: #424242;
+  }
+  
+  .book-icon.S svg {
+    fill: #37474F;
+  }
+  
+  .book-icon.T svg {
+    fill: #C51162;
+  }
+  
+  .book-icon.U svg {
+    fill: #304FFE;
+  }
+  
+  .book-icon.W svg {
+    fill: #AEEA00;
+  }
+
+</style>
+
+<script type="module">
+
+
+// Imports and initialization /////////////////////////////////////////////////
+
+import Leaflet from "https://jspm.dev/leaflet@1"
+import "https://jspm.dev/leaflet.markercluster@1.4.1"
+import {Card, Pane, Text, Button} from "https://jspm.dev/evergreen-ui@6"
+import {PureComponent, createElement, createRef, useState} from "https://jspm.dev/react@16"
+import {render} from "https://jspm.dev/react-dom@16"
+import htm from "https://jspm.dev/htm@3"; const html = htm.bind(createElement)
+import {css, cx} from "https://jspm.dev/@emotion/css@11"
+import CSV from "https://jspm.dev/papaparse@5"
+
+// Constants ///////////////////////////////////////////////////////////////////
+
+const BRUGES_NOVGOROD_COORDS = [
+  {label: "Brügge", latlng: [51.2085526,3.226772]},
+  {label: "Brüssel", latlng: [50.8465573,4.351697]},
+  {label: "St. Truiden", latlng: [50.82694775,5.203424911603399]},
+  {label: "Tongeren", latlng: [50.7806267,5.4639172]},
+  {label: "Maastricht", latlng: [50.85798545,5.6969881818221095]},
+  {label: "Aachen", latlng: [50.776351,6.083862]},
+  {label: "Kornelimünster", latlng: [50.7285409,6.1822433]},
+  {label: "Düren", latlng: [50.8031684,6.4820806]},
+  {label: "Neuss", latlng: [51.1981778,6.6916476]},
+  {label: "Köln", latlng: [50.938361,6.959974]},
+  {label: "Duisburg", latlng: [51.434999,6.759562]},
+  {label: "Essen", latlng: [51.4582235,7.0158171]},
+  {label: "Dortmund", latlng: [51.5142273,7.4652789]},
+  {label: "Unna", latlng: [51.5348835,7.689014]},
+  {label: "Soest", latlng: [51.5725501,8.1061259]},
+  {label: "Blomberg", latlng: [51.9424313,9.0919013]},
+  {label: "Hameln", latlng: [52.1039941,9.3561569]},
+  {label: "Hildesheim", latlng: [52.1521636,9.9513046]},
+  {label: "Goslar", latlng: [51.9059936,10.4266284]},
+  {label: "Braunschweig", latlng: [52.2646577,10.5236066]},
+  {label: "Halberstadt", latlng: [51.8953514,11.0520563]},
+  {label: "Helmstedt", latlng: [52.2277037,11.0104702]},
+  {label: "Magdeburg", latlng: [52.1315889,11.6399609]},
+  {label: "Brandenburg (Havel)", latlng: [52.4108261,12.5497933]},
+  {label: "Berlin", latlng: [52.5015217,13.4025498]},
+  {label: "Frankfurt (Oder)", latlng: [52.3412273,14.549452]},
+  {label: "Stettin", latlng: [53.4301818,14.5509623]},
+  {label: "Landsberg (Warthe)", latlng: [52.73057555,15.210755319093852]},
+  {label: "Kolberg", latlng: [54.176211550000005,15.57640369780165]},
+  {label: "Köslin", latlng: [54.20727105,16.217530768271565]},
+  {label: "Stolp", latlng: [54.4649331,17.028073]},
+  {label: "Bromberg", latlng: [53.12974625,18.029369658534854]},
+  {label: "Preuß. Stargard", latlng: [53.9671805,18.532113]},
+  {label: "Kulm", latlng: [53.35250284999999,18.440424707276136]},
+  {label: "Thorn", latlng: [53.0145361,18.596583144651557]},
+  {label: "Elbing", latlng: [54.1988997,19.44108568736702]},
+  {label: "Braunsberg", latlng: [54.3791637,19.82216309198983]},
+  {label: "Königsberg", latlng: [54.710128,20.5105838]},
+  {label: "Goldingen", latlng: [56.9685951,21.9606758]},
+  {label: "Tauroggen", latlng: [55.2533635,22.2903395]},
+  {label: "Riga", latlng: [56.9493977,24.1051846]},
+  {label: "Pernau", latlng: [58.3835136,24.5081751]},
+  {label: "Reval", latlng: [59.4372155,24.7453688]},
+  {label: "Segewold", latlng: [57.1540561,24.8567141]},
+  {label: "Wenden", latlng: [57.3131712,25.2748551]},
+  {label: "Wolmar", latlng: [57.5389148,25.4261688]},
+  {label: "Dorpat", latlng: [58.3801207,26.72245]},
+  {label: "Novgorod", latlng: [58.5609587,31.2809005856491]},
+]
+
+const BRUGES_NOVGOROD_LABEL = `Hansestädte und -kontore (Brügge-Novgorod-Handelsroute) <b style="margin-left: 1em; margin-top: 0.2em; float: right; height: 1em; width: 3em; text-align: center">⬤</b>`
+const MODERN_PLACES_LABEL = `Moderne Ortsnamen <i style="margin-left: 1em; margin-top: 0.2em; float: right; height: 1em; width: 3em; text-align: center">Kiel</i>`
+const BOOKS_LABEL = `Bücher der Kapuziner-Bibliothek Paderborn <img style="margin-left: 1em; margin-top: 0.2em; float: right; height: 1em; width: 3em; text-align: center" src="book.svg" /> `
+
+
+// UI Components //////////////////////////////////////////////////////////////
+
+class App extends PureComponent {
+
+  fetchBooks(url="katalog.csv") {
+    CSV.parse(url, {
+      download: true,
+      header: true,
+      complete: ({data}) => {
+        this.setState({books: data.filter(b => b["Ort"] && b["Ort"] != "-" && b["Ort"] != "?")})
+      }
+    })
+  }
+
+  constructor() {
+    super()
+    this.fetchBooks()
+  }
+
+  state = {
+    books: []
+  }
+  
+  render() {
+    const style = {}
+    return html`<${BookMap} books=${this.state.books}><//>`
+  }
+}
+
+class BookMap extends PureComponent {
+  ref = createRef()
+  map = undefined
+  
+  base = Leaflet.tileLayer("http://tile.stamen.com/terrain-background/{z}/{x}/{y}.png", {opacity: 1, attribution: "Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL."})
+  overlays = {
+    [MODERN_PLACES_LABEL]: Leaflet.tileLayer("http://tile.stamen.com/terrain-labels/{z}/{x}/{y}.png"),
+    [BRUGES_NOVGOROD_LABEL]: Leaflet.layerGroup(
+      BRUGES_NOVGOROD_COORDS.map(({label, latlng, highlight}, i) => Leaflet.circleMarker(latlng, {radius: 2, color: "black", fill: true, fillOpacity: 1})
+        .bindTooltip(label, {
+          permanent: true,
+          direction: i % 2 == 0? "bottom": "top", 
+          className: "bruges-novgorod-tooltip",
+          pane: "overlayPane"
+        })
+      )
+    ),
+    [BOOKS_LABEL]: Leaflet.markerClusterGroup({
+      maxClusterRadius: 10
+    })
+  }
+
+  paderborn = Leaflet.circleMarker([51.71895955,8.764869778177559], {
+    radius: 6,
+    color: "darkred",
+    fill: true,
+    fillOpacity: 1
+  }).bindTooltip("<b>Paderborn</b>", {
+    permanent: true,
+    direction: "bottom",
+    className: "paderborn-tooltip"
+  })
+
+  controls = [
+    new Leaflet.Control.Zoom({position: "topright"}),
+    new Leaflet.Control.Layers({base: this.base}, this.overlays, {
+      position: "bottomleft",
+      collapsed: false,
+      hideSingleBase: true
+    })
+  ]
+
+  bookToMarker({K, Kategorie, Autor, Titel, Ort, Jahr, Format, Zusatz, lat, lng}) {
+    const icon = Leaflet.divIcon({
+      className: "book-icon " + K,
+      html: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M5.495 4c-1.375 0-1.375-2 0-2h16.505v-2h-17c-1.657 0-3 1.343-3 3v18c0 1.657 1.343 3 3 3h17v-20h-16.505z"/></svg>`
+    })
+    const className = "book-tooltip"
+    const tooltip = `
+      <div>
+        <h3>Buch</h3>
+        <div>
+          <b>Kategorie: </b>
+          <span>${Kategorie}</span>
+        </div>
+        <div>
+          <b>Autor: </b>
+          <span>${Autor}</span>
+        </div>
+        <div>
+          <b>Titel: </b>
+          <span>${Titel}</span>
+        </div>
+        <div>
+          <b>Ort: </b>
+          <span>${Ort}</span>
+        </div>
+        <div>
+          <b>Jahr: </b>
+          <span>${Jahr}</span>
+        </div>
+        <div>
+          <b>Format: </b>
+          <span>${Format}</span>
+        </div>
+        <div>
+          <b>Handschriftlich angefügt: </b>
+          <span>${Zusatz? Zusatz: "nein"}</span>
+        </div>
+      </div>
+    `
+    return Leaflet.marker([lat, lng], {icon}).bindTooltip(tooltip, {className})
+  }
+
+  componentDidMount() {
+    const element = this.ref.current
+    
+    this.map = Leaflet.map(element, {
+      center: [50.938361, 6.959974],
+      zoom: 8,
+      minZoom: 7,
+      maxZoom: 12,
+      zoomControl: false,
+      doubleClickZoom: false,
+      layers: [
+        this.base,
+        this.overlays[BOOKS_LABEL],
+        this.overlays[BRUGES_NOVGOROD_LABEL],
+        this.paderborn
+      ]
+    })
+    this.controls.forEach(control => control.addTo(this.map))
+
+    new ResizeObserver(() => this.map.invalidateSize()).observe(element)
+
+    // const coords = locations.map(this.locationToCoords)
+    // locations.forEach(l => this.addMarker(l.id, this.locationToMarker(l)))
+    
+
+    // coords.length > 0? this.map.fitBounds(Leaflet.latLngBounds(coords)): {}
+    // this.map.zoomOut(3, {animate: false})
+  }
+
+  componentDidUpdate(prevProps, prevState) {
+    if(this.props.books != prevProps.books) {
+      this.overlays[BOOKS_LABEL].clearLayers()
+      for (const book of this.props.books) {
+        this.overlays[BOOKS_LABEL].addLayer(this.bookToMarker(book))
+      }
+      this.overlays[BRUGES_NOVGOROD_LABEL].setZIndex(-5)
+      this.overlays[BOOKS_LABEL].setZIndex(5)
+    }
+  }
+
+  state = {
+    helpOpen: true
+  }
+
+  render() {
+
+    const style = {
+      width: "100vw",
+      height: "100vh"
+    }
+
+    return html`<div 
+      ref=${this.ref}
+      style=${style}
+    >
+      <${BookMap.Help} open=${this.state.helpOpen} onClick=${e => {this.setState({helpOpen: !this.state.helpOpen}); e.stopPropagation()}}><//>
+    </div>`
+  }
+
+  static Help({open, onClick}) {
+    const style = {
+      position:"absolute",
+      fontSize: "1.1em",
+      top:"10px",
+      left:"10px",
+      zIndex:"314159",
+      maxWidth:"400px",
+      background: "white",
+      padding: "1em",
+      cursor: "pointer",
+      background: "white"
+    }
+
+    return html`<${Card} onClick=${!open? onClick: () => null} className=${open? "help open": "help"} elevation=${2} ...${style}>
+        <b>Forschung zur Kapuziner-Bibliothek Paderborn</b>
+        <div>
+          <p>Willkommen! Diese Seite dient als begleitendes Material zum Text "Barocker Kulturtransfer entlang des Hellwegs: Der Katalog der Kapuziner-Bibliothek Paderborn".</p>
+          <p>Zu sehen ist eine Karten-Darstellung von ca. 400 Büchern aus Katalog des Kapuziner-Klosters Paderborn. Dazu wurden die Bücher entsprechend ihrer Erscheinungsorte auf der Karte markiert. Bücher mit dem gleichen Erscheinungsort wurden als eine Markierung mit Zahl zusammengruppiert. Außerdem wurde die Brügge-Novgorod-Handelsroute, von der der Westfälische Hellweg ein wichtiger Abschnitt ist, eingezeichnet.</p>
+          <p>Die Karte ist interaktiv:</p>
+          <ul>
+            <li>Mit den beiden Knöpfen oben rechts kann gezoomt werden.</li>
+            <li> Mit der Legende unten links können Darstellungs-Elemente auf der Karte an- und ausgeschaltet werden.</li>
+            <li>Per Klick auf auf zusammengruppierte Bücher erscheinen die einzelnen Bücher.</li>
+            <li>Nach einem Klick auf ein einzelnes Buch werden Details dazu angezeigt.</li>
+          </ul>
+          <i>- Frederic Salmen (<a href="mailto:frederic@fsalmen.de">frederic@fsalmen.de</a>)</i>
+          <${Button} onClick=${onClick} style=${{float: "right"}}>Schließen<//>
+        </div>
+      <//>`
+  }
+
+}
+
+
+
+// Rendering the UI ///////////////////////////////////////////////////////////
+
+render(html`<${App} />`, document.body.appendChild(document.createElement("main")))
+
+</script>
+
+</head>

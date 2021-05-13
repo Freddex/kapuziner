@@ -1,0 +1,441 @@
+i,K,Kategorie,Autor,Titel,Ort,Jahr,Format,Zusatz,Erscheinungsregion,lat,lng
+1,A,Sacra Scriptura,-,Biblia Latina veteris typi,Lyon,1525,folio,,Frankreich,45.752181,4.840823
+2,A,Sacra Scriptura,-,Biblia Latina veteris typi,Lyon,1526,folio,,Frankreich,45.752181,4.840823
+3,A,Sacra Scriptura,-,Biblia Latina veteris typi,Lyon,1526,folio,,Frankreich,45.752181,4.840823
+4,A,Sacra Scriptura,-,Biblia Latina,Köln,1527,folio,,Deutschland,50.947180,6.934628
+5,A,Sacra Scriptura,-,Biblia Latina,Antwerpen,1540,folio,,Niederlande,51.222805,4.655059
+6,A,Sacra Scriptura,-,Biblia Latina,Köln,1541,folio,,Deutschland,50.947180,6.934628
+7,A,Sacra Scriptura,-,Biblia Belgica,Köln,1560,folio,,Deutschland,50.947180,6.934628
+8,A,Sacra Scriptura,-,Biblia Belgica cum figuris,Köln,1560,folio,,Deutschland,50.947180,6.934628
+9,A,Sacra Scriptura,Iois Benedicti Theologi Parisiensis,"Biblia Latina adjectis ad singula Capita brevibus argumentis, ac Hebraicarum, Graecarum, aliarumque peregrinarum vocum interpretationibus",Paris,1565,folio,,Frankreich,48.859116,2.331839
+10,A,Sacra Scriptura,Dietenberger,Biblia Germanica,Köln,1587,folio,,Deutschland,50.947180,6.934628
+11,A,Sacra Scriptura,Dietenberger,Biblia Germanica,Köln,1598,folio,,Deutschland,50.947180,6.934628
+12,A,Sacra Scriptura,-,Biblia Latina,Antwerpen,1606,folio,,Niederlande,51.222805,4.655059
+13,A,Sacra Scriptura,-,"Biblia variarum Translationum fribus Tomis distincta, Tom. 1, 2, 3",Antwerpen,1616,folio,,Niederlande,51.222805,4.655059
+14,A,Sacra Scriptura,Dietenberger,Biblia Germanica,Köln,1692,folio,,Deutschland,50.947180,6.934628
+15,A,Sacra Scriptura,Dietenberger,Biblia Germanica,Würzburg,1705,folio,,Deutschland,49.784984,9.941828
+16,A,Sacra Scriptura,R P Thomae Erhard - O S Ben,Biblia Latino Germanica,Augsburg,1726,folio,,Deutschland,48.369338,10.896842
+17,A,Sacra Scriptura,R P Thomae Erhard - O S Ben,Biblia Latino Germanica,Augsburg,1730,folio,,Deutschland,48.369338,10.896842
+18,A,Sacra Scriptura,R P Thomae Erhard - O S Ben,Biblia Latino Germanica in zptes divisa,Graz,1749,folio,,Österreich,47.065852,15.432739
+19,A,Sacra Scriptura,R P Germani Cartiers O S Ben,"Biblia Latino Germanica cum Comentario Latino in 4tuor Tomos distincta, & cum adjectis Figuris, Tom. 1, 2, 3, 4",Konstanz,1751,folio,,Deutschland,47.673531,9.170081
+20,A,Sacra Scriptura,-,"Testamentum Vetus scriptum, & in 3 Tomos divisum, Tom. 1, 2, 3",Konstanz,1751,folio,,Deutschland,47.673531,9.170081
+21,A,Sacra Scriptura,Cartier,Biblia Latino Germanica...,Konstanz,1770,folio,ja,Deutschland,47.673531,9.170081
+22,A,Sacra Scriptura,-,Officia nova Sanctorum,-,-,folio,,-,,
+23,A,Sacra Scriptura,-,Officia propria Ss: Ordinis Minorum,Antwerpen,1693,oktav,,Niederlande,51.222805,4.655059
+24,A,Sacra Scriptura,-,Officia nova Sanctorum,Antwerpen,1671,oktav,,Niederlande,51.222805,4.655059
+25,A,Sacra Scriptura,-,Officia propria aliquorum Ss:,Köln,1672,oktav,,Deutschland,50.947180,6.934628
+26,A,Sacra Scriptura,-,Officia propria Ss: Ord: Min:,Antwerpen,1677,oktav,,Niederlande,51.222805,4.655059
+27,A,Sacra Scriptura,-,Officia propria aliquorum Ss:,Köln,1679,oktav,,Deutschland,50.947180,6.934628
+28,A,Sacra Scriptura,-,Officia ppria Ss: Dioecesis Ruremundensis,Köln,1605,oktav,,Deutschland,50.947180,6.934628
+29,A,Sacra Scriptura,-,Officia ppria Ss: Ord. Can. Reg. S. Augustini,Mons,1635,oktav,,Niederlande,50.422144,3.874180
+30,A,Sacra Scriptura,-,Officia ppria Ss: Dioecesis Hildesiensis,Hildesheim,1657,oktav,,Deutschland,52.152573,9.949490
+31,A,Sacra Scriptura,-,Officia ppria Ss: Archi Dioeces Colonien,Köln,1687,oktav,,Deutschland,50.947180,6.934628
+32,A,Sacra Scriptura,-,Officia ppria Ss: Dioecesis Paderbornensis,Schloss Neuhaus,1699,oktav,,Deutschland,51.744167,8.712778
+33,B,Sancti Patres,Divi Alberti Mag,Ennarationes in 12 Prophetas minor,Köln,1530,folio,,Deutschland,50.947180,6.934628
+34,B,Sancti Patres,Divi Ambrosii Ep,Opera omnia,Basel,1567,folio,,Schweiz,47.557104,7.597813
+35,B,Sancti Patres,Divi Anselmi Ep,Opera omnia,Köln,1612,folio,,Deutschland,50.947180,6.934628
+36,B,Sancti Patres,Divi Anselmi Ep,Opera,Köln,1573,folio,,Deutschland,50.947180,6.934628
+37,B,Sancti Patres,Divi Athanasii Ep,Opera omnia,Paris,1581,folio,,Frankreich,48.859116,2.331839
+38,B,Sancti Patres,Divi Augustini Ep,Opera (1-10),Basel,1543,folio,,Schweiz,47.557104,7.597813
+39,B,Sancti Patres,Divi Augustini Ep,Opera (1-10),Paris,1614,folio,,Frankreich,48.859116,2.331839
+40,B,Sancti Patres,Divi Augustini Ep,Libri zz. de Civitate dei; cum eruditis Commentariis Ludovici Vivis,Basel,1542,folio,,Schweiz,47.557104,7.597813
+41,B,Sancti Patres,Divi Augustini Ep,"Libri zz. de Civitate dei; cum novis Commentariis Leonardi Coquaei, & Ludovici Vivis",Paris,1636,folio,,Frankreich,48.859116,2.331839
+42,B,Sancti Patres,Divi Augustini Ep,Libri quatuor Confessionum - NB in eadem Compactura Historia Passionis DNIC p RD Ioem Wildt,Dillingen,-,folio,,Deutschland,49.353052,6.741668
+43,B,Sancti Patres,Divi Augustini Ep,"Latine conscripta, & a Christiano Hippario in Idioma Germanicum versa",Mainz,1675,folio,,Deutschland,49.997895,8.253032
+44,B,Sancti Patres,Divi Augustini Ep,Operum omnium Epitome,Köln,1639,folio,,Deutschland,50.947180,6.934628
+45,B,Sancti Patres,S. Bernardi Ab.,Opera,Venedig,1575,quart,,Italien,45.581192,12.561157
+46,B,Sancti Patres,S. Iois Chrysostomis,"Dialogi sex: quaod magnae dignitatis, sed multae difficultatis sit Episcopum agere",-,-,quart,,-,,
+47,B,Sancti Patres,S. Eusebii,De Praeparatione Evangelica,-,-,quart,,-,,
+48,B,Sancti Patres,D. Petri Chrysologi,Sermones in Evangelia de Dnicis & Festis,Mainz,1607,oktav,,Deutschland,49.997895,8.253032
+49,B,Sancti Patres,D. Dionysii Areopagitae,"Opera omnia, quae extant",Köln,1557,oktav,,Deutschland,50.947180,6.934628
+50,B,Sancti Patres,D. Paulini,Opera,Köln,1560,oktav,,Deutschland,50.947180,6.934628
+51,C,Scriptores Ecclesiastici,-,Annales sacri,-,-,folio,,-,,
+52,C,Scriptores Ecclesiastici,Adrichomii,Theatrum Terrae Sanctae; & Biblicarum Historiarum cum Tabulis Geographicis,-,-,folio,,-,,
+53,C,Scriptores Ecclesiastici,Baronii C R Cong Orat,Annalium Ecclesiasticorum Tom. 1 - 18,Köln,1625,folio,,Deutschland,50.947180,6.934628
+54,C,Scriptores Ecclesiastici,Iois Cabassutii,"Notitia Ecclesiastica Historiarum, Conciliorum, Canonum &c",Köln,1725,folio,,Deutschland,50.947180,6.934628
+55,C,Scriptores Ecclesiastici,Iois Cabassutii,Notitia Ecclesiastica Historiarum &c,Lyon,1690,folio,,Frankreich,45.752181,4.840823
+56,C,Scriptores Ecclesiastici,Eusebii &c Authorum,Historiae Ecclesiasticae,Basel,1562,folio,,Schweiz,47.557104,7.597813
+57,C,Scriptores Ecclesiastici,Ios Flavii,Historiae,-,-,folio,,-,,
+58,C,Scriptores Ecclesiastici,Iois Gerson Cancell Paris,Opera,Paris,1606,folio,,Frankreich,48.859116,2.331839
+59,C,Scriptores Ecclesiastici,Iois Gerson Cancell Paris,Opera (Typo vetere),-,-,folio,,-,,
+60,C,Scriptores Ecclesiastici,RP Iacobi Gualteri SJ,"Tabula Chronographica Status Ecclesiae Catholicae a Xto nato, ad Annu 1614 - in zplo",Köln,1616,folio,,Deutschland,50.947180,6.934628
+61,C,Scriptores Ecclesiastici,RP Henrici Harvillaei Ord Cap,Isagoge Chronologica,Paris,1624,folio,,Frankreich,48.859116,2.331839
+62,C,Scriptores Ecclesiastici,RP Iacobi Bergom Ord Eremit SA,Supplementum Supplementi Chronicorum,-,-,folio,,-,,
+63,C,Scriptores Ecclesiastici,H Petri,Elenchus variorum Scriptorum,Basel,1550,folio,,Schweiz,47.557104,7.597813
+64,C,Scriptores Ecclesiastici,Philonis Hebr.,Opera omnia,Basel,1554,folio,,Schweiz,47.557104,7.597813
+65,C,Scriptores Ecclesiastici,Platinae,Opus de Vitis ac Gestis Summ Pontificum,Köln,1562,folio,,Deutschland,50.947180,6.934628
+66,C,Scriptores Ecclesiastici,RP Antonii Possevini SJ,Apparatus Sacer ad Scriptores veteris ac novi Testamenti,Köln,1608,folio,,Deutschland,50.947180,6.934628
+67,C,Scriptores Ecclesiastici,Sixti Senensis,Bibliotheca Sancta in zplo,Frankfurt,1675,folio,,Deutschland,50.041821,8.584764
+68,C,Scriptores Ecclesiastici,Tornelli,Annales facri & profani,Frankfurt,1611,folio,,Deutschland,50.041821,8.584764
+69,C,Scriptores Ecclesiastici,Abrahami Buchholzeri,Chronologia,?,1694,oktav,,-,,
+70,C,Scriptores Ecclesiastici,Alberti Crantzii,Metropolis sive Historia Ecclesiastica Saxoniae in zplo,Köln,1574,oktav,,Deutschland,50.947180,6.934628
+71,C,Scriptores Ecclesiastici,Eusebii,Historiae Ecclesiasticae Pars 1 ma,Louvain,1569,oktav,,Niederlande,50.881011,4.710309
+72,C,Scriptores Ecclesiastici,Genebrardi,Chronographiae Liber 1mus & 2mus,Köln,1581,oktav,,Deutschland,50.947180,6.934628
+73,C,Scriptores Ecclesiastici,RP Dionysii Petavii,Rationarium Temporum in 2 pts divisum,Paris,1641,oktav,,Frankreich,48.859116,2.331839
+74,C,Scriptores Ecclesiastici,I Carionis,Chronica,-,1531,duodez,,-,,
+75,C,Scriptores Ecclesiastici,Genebrardi,Chronographia,Louvain,1572,duodez,,Niederlande,50.881011,4.710309
+76,C,Scriptores Ecclesiastici,Goldhagen,Religions journal - Anno 1776 - 1791,Mainz,-,oktav,ja,Deutschland,49.997895,8.253032
+77,D,Scriptores Ordinum Religiosorum,"RP Bonaventurae Dernoye, Ord FF Recollect","Medulla S Evangelii per Christum dictata S Patri Francisco in sua Regula, exposita moraliter",Köln,1734,folio,,Deutschland,50.947180,6.934628
+78,D,Scriptores Ordinum Religiosorum,RP Brunonis Ord S tr. Recollect,Privilegia Regularium in duas partes divisa,Paris,1654,folio,,Frankreich,48.859116,2.331839
+79,D,Scriptores Ordinum Religiosorum,"RP Iois Caramuelis, Ord S Bened","Theologia Regularis in Ss Benedicti Basilii, Augustini, & Francisci Regulas",Lyon,1665,folio,,Frankreich,45.752181,4.840823
+80,D,Scriptores Ordinum Religiosorum,"RP Caroli, Ducis de Aremberg, Bruxell,, Ord Cap Dftr Grlis","Flores Seraphici, Ord FF Minorum S Frnci Capucinorum in 2 Tomos divisi",Köln,1642,folio,,Deutschland,50.947180,6.934628
+81,D,Scriptores Ordinum Religiosorum,"RP Emmanuelis Roderici, Ord St. Obs",Quastionum Regularium & Canonicarum,Antwerpen,1616,folio,,Niederlande,51.222805,4.655059
+82,D,Scriptores Ordinum Religiosorum,-,"Nova Collectio Privilegiorum Apostolicorum Regularium Mendicantium & non Mendicantium, in quibus ipsae Religiones communicant",Antwerpen,1616,folio,,Niederlande,51.222805,4.655059
+83,D,Scriptores Ordinum Religiosorum,RP Henrici Sedulii SO,Historia Seraphica,Antwerpen,1613,folio,,Niederlande,51.222805,4.655059
+84,D,Scriptores Ordinum Religiosorum,RP Iacobi Ragii Ord Cap,De Regimine Regularium Centuria,Genua,1653,folio,,Italien,44.423320,8.879033
+85,D,Scriptores Ordinum Religiosorum,Iois a Turrecrema ta SRE Card,Regula S Benedicti cum Commentariis - Item de Viris Illustribus Ordinis S Benedicti,Köln,1675,folio,,Deutschland,50.947180,6.934628
+86,D,Scriptores Ordinum Religiosorum,Iois Trithemii,"Libri quatuor - Item Regulae Ss. Basilii, Augustini & Francisci",Köln,1675,folio,,Deutschland,50.947180,6.934628
+87,D,Scriptores Ordinum Religiosorum,RP Ludovici Miranda Ord. St. Obs,Manuale Praelatorum,Köln,1597,folio,,Deutschland,50.947180,6.934628
+88,D,Scriptores Ordinum Religiosorum,RDni Petri Marcellini de Lucca,Tractatus de jure deciso FF Minorum S. Francisci Capucinorum,"Rom, Italien",1737,folio,,Italien,41.878243,12.528090
+89,D,Scriptores Ordinum Religiosorum,Crusenius,Monasticon Augustinianicus (?),München,1623,folio,ja,Deutschland,48.152126,11.544467
+90,D,Scriptores Ordinum Religiosorum,RP Cypriani a S Maria Ord Carm,"Thesaurus Carmelitarum, sive Confraternitatis sacri Scapularis",Köln,1627,duodez,,Deutschland,50.947180,6.934628
+91,D,Scriptores Ordinum Religiosorum,RP Francisci a Coriolano,Tractatus de Casibus reservatis,Toul,1618,duodez,,Frankreich,48.674430,5.891266
+92,D,Scriptores Ordinum Religiosorum,RP Hieronymi a Politio Ord Cap,Expositio in Regulam S. Francisci,Köln,1615,duodez,,Deutschland,50.947180,6.934628
+93,D,Scriptores Ordinum Religiosorum,Nicolai Langenberg RP Benedicti,Franciscaner Schatz-Büchlein,Köln,1644,duodez,,Deutschland,50.947180,6.934628
+94,D,Scriptores Ordinum Religiosorum,Meyenschein Ord S Ben,Stella Benedictina,Hildesheim,1725,duodez,,Deutschland,52.152573,9.949490
+95,D,Scriptores Ordinum Religiosorum,RP Zachariae Boverii Ord Cap,Demonstrationes de vera Forma Habitus a SPFrnco instituta - His adjecta RP Boniti Combasson vera & dilucida Explicatio,Köln,1640,duodez,,Deutschland,50.947180,6.934628
+96,D,Scriptores Ordinum Religiosorum,-,Regula & Vita S. Benedicti,Köln,1663,oktodez,,Deutschland,50.947180,6.934628
+97,D,Scriptores Ordinum Religiosorum,-,Zucht-Spiegel der neuen Ordenspersonen,Köln,1637,oktodez,,Deutschland,50.947180,6.934628
+98,D,Scriptores Ordinum Religiosorum,-,Zucht-Spiegel der neuen Ordenspersonen (idem Germanice),Köln,1637,oktodez,,Deutschland,50.947180,6.934628
+99,D,Scriptores Ordinum Religiosorum,S Bonaventurae Card & Episc RP Caroli Rapinaei,Expositio in Regulam S. Francisci,"Rom, Italien",1711,oktodez,,Italien,41.878243,12.528090
+100,D,Scriptores Ordinum Religiosorum,"RP Emmanuelis Roderici, Ord St. Obs",Resolutiones Materiarum FFMinores concernentium,Antwerpen,1618,oktodez,,Niederlande,51.222805,4.655059
+101,D,Scriptores Ordinum Religiosorum,RP Lucae Waddingi Ord St. Obs,Opuscula S Francisci,Mainz,1710,oktodez,,Deutschland,49.997895,8.253032
+102,D,Scriptores Ordinum Religiosorum,RP Servatii,Enchiridion FF Minorum in Regulam S Francisci,-,-,oktodez,,-,,
+103,E,Expositores Sacrae Scripturae,Alchuvini,Opera omnia,Paris,1617,folio,,Frankreich,48.859116,2.331839
+104,E,Expositores Sacrae Scripturae,RP Alvarez SJ,Isaias expositus,Lyon,1623,folio,,Frankreich,45.752181,4.840823
+105,E,Expositores Sacrae Scripturae,RP Avguani Ord Carm,Commentaria in Psalmos,Venedig,1619,folio,,Italien,45.581192,12.561157
+106,E,Expositores Sacrae Scripturae,Barradii,Commentaria in Concordiam & Historiam Evangelicam,Mainz,1611,folio,,Deutschland,49.997895,8.253032
+107,E,Expositores Sacrae Scripturae,Benzonii,"Commentaria in Magnificat Salutationem Angelicam, & Psalmum 86 Fundamenta",Douai,1626,folio,,Frankreich,50.373162,3.082580
+108,E,Expositores Sacrae Scripturae,RP Thomae Le Blanc SJ,Psalmorum Davidicorum Analysis sive Commentariorum,Köln,1682,folio,,Deutschland,50.947180,6.934628
+109,E,Expositores Sacrae Scripturae,Britonis,"Operum Pars 3tia super Libros Job, Psalmorum, Proverbiorum, Ecclesiastae, Canticorum, Sapientiae, Ecclesiastici",-,-,folio,,-,,
+110,E,Expositores Sacrae Scripturae,RP Antonii Broickuvii Ord St. Obs.,Ennarationes in Evangelia,Köln,1539,folio,,Deutschland,50.947180,6.934628
+111,E,Expositores Sacrae Scripturae,RP Christoph a Castro SJ,Commentaria in Jeremiam & Baruch & in 12 Prophetas minores,Mainz,1616,folio,,Deutschland,49.997895,8.253032
+112,E,Expositores Sacrae Scripturae,RP Contzen SJ,Commentaria in 4 Evangelia,Köln,1626,folio,,Deutschland,50.947180,6.934628
+113,E,Expositores Sacrae Scripturae,Amonii,Consonantiaa in 4 Evangeliorum,Köln,1532,duodez,,Deutschland,50.947180,6.934628
+114,E,Expositores Sacrae Scripturae,Didymi Alexe,In Epistolas Canonicas,Köln,1531,duodez,,Deutschland,50.947180,6.934628
+115,E,Expositores Sacrae Scripturae,Prosperi,Collectio aliquot Sententiarum,Köln,1531,duodez,,Deutschland,50.947180,6.934628
+116,E,Expositores Sacrae Scripturae,Isidori,Dialogus,-,-,duodez,,-,,
+117,E,Expositores Sacrae Scripturae,Campensis,Paraphrastica Interpretatio in Psalmos,Köln,1534,duodez,,Deutschland,50.947180,6.934628
+118,E,Expositores Sacrae Scripturae,Reynerii,Psalterium Paraphrasibus illustratum,Köln,1538,duodez,,Deutschland,50.947180,6.934628
+119,E,Expositores Sacrae Scripturae,-,kurze Erklärung der 7 Buß-Psalmen,Mainz,1755,duodez,ja,Deutschland,49.997895,8.253032
+120,F,Libri Ascetici,Alvarez,De Vita Spirituali,Mainz,1614,folio,,Deutschland,49.997895,8.253032
+121,F,Libri Ascetici,Ludovici Bail,Theologia Affectiva; das ist Anmüthige Erkantnüß Göttlicher Dingen,Köln,1712,folio,,Deutschland,50.947180,6.934628
+122,F,Libri Ascetici,Iois Mauburni,Rosetum Exercitiorum Spiritualium,Douai,1620,folio,,Frankreich,50.373162,3.082580
+123,F,Libri Ascetici,Rusbrochii,Opera omnia,Köln,1692,folio,,Deutschland,50.947180,6.934628
+124,F,Libri Ascetici,Ludov Sabbatini,Dissertationes de Praerogativa Status Clericalis,Augsburg,1741,folio,,Deutschland,48.369338,10.896842
+125,F,Libri Ascetici,Thomas Kemp,Libellus de Imitatione Christi,Köln,1602,oktodez,,Deutschland,50.947180,6.934628
+126,F,Libri Ascetici,Thomas Kemp,Libellus de Imitatione Christi,Köln,-,oktodez,,Deutschland,50.947180,6.934628
+127,F,Libri Ascetici,Thomas Kemp,Libellus de Imitatione Christi,-,-,oktodez,,-,,
+128,F,Libri Ascetici,Thomas Kemp,Von der Nachfolg Christi,Köln,-,oktodez,,Deutschland,50.947180,6.934628
+129,F,Libri Ascetici,Thomas Kemp,Von der Nachfolg Christi (Idem germanice),-,-,oktodez,,-,,
+130,F,Libri Ascetici,Titelmanni Capucini,Summa Mysteriorum Christianae Fidei,Antwerpen,1571,oktodez,,Niederlande,51.222805,4.655059
+131,F,Libri Ascetici,-,Christus d i Eine kurze Weiß des innerlichen Gebets,Köln,1672,oktodez,,Deutschland,50.947180,6.934628
+132,F,Libri Ascetici,-,Christus d i Eine kurze Weiß des innerlichen Gebets (idem adhuc),Köln,1692,oktodez,,Deutschland,50.947180,6.934628
+133,F,Libri Ascetici,-,Praxis Spiritualis,Köln,1608,oktodez,,Deutschland,50.947180,6.934628
+134,F,Libri Ascetici,-,Defensio BMV & piorum Cultorum,Würzburg,1675,oktodez,,Deutschland,49.784984,9.941828
+135,F,Libri Ascetici,-,Confiderationes sacra,-,-,oktodez,,-,,
+136,F,Libri Ascetici,-,Lehr und Regulen zur Seeligkeit,-,-,oktodez,,-,,
+137,G,Canonistae,Barbosa,De Officio & Potestate Episcopi,Paris,1625,folio,,Frankreich,48.859116,2.331839
+138,G,Canonistae,Barbosa,Collectanea Doctorum,Lyon,1721,folio,,Frankreich,45.752181,4.840823
+139,G,Canonistae,Barbosa,Thesaurus Locorum communium Juris prudentiae,Leipzig,1690,folio,,Deutschland,51.341053,12.404024
+140,G,Canonistae,Brancati,Epitome Canonum omnium &c,Köln,1684,folio,,Deutschland,50.947180,6.934628
+141,G,Canonistae,Bursati,Opus Consiliorum & Responsorum,Frankfurt,1574,folio,,Deutschland,50.041821,8.584764
+142,G,Canonistae,Clementis XI Papae,"Constitutio Unigenitus, Theologice propugnata",Dillingen,1725,folio,,Deutschland,49.353052,6.741668
+143,G,Canonistae,Clementis XI Papae,"Orationes Consistoriales, Homiliae, Epistolae & Brevia",Frankfurt,1729,folio,,Deutschland,50.041821,8.584764
+144,G,Canonistae,Clementis XI Papae,Epistolae & Brevia selectiora,"Rom, Italien",1729,folio,,Italien,41.878243,12.528090
+145,G,Canonistae,Schmidt-Anton,justituores juris Erdici Germanii (???),Bamberg,1778,oktav,ja,Deutschland,49.895431,10.897137
+146,G,Canonistae,Schnell,Ius Canonicum,"Linz, Österreich",1744,oktav,,Österreich,48.284136,14.306943
+147,G,Canonistae,Tenhaven,Nucleus Juris Canonici,Köln,1739,oktav,,Deutschland,50.947180,6.934628
+148,G,Canonistae,Venatorii,Analysis methodica Juris Pontificii,Mainz,1579,oktav,,Deutschland,49.997895,8.253032
+149,G,Canonistae,Vestrii,"Introductio in Romanae Aula actionem, & in Judiciorum mores",Köln,1574,oktav,,Deutschland,50.947180,6.934628
+150,G,Canonistae,Arnoldi Corvini,Jus Canonicum per Aphorismos strictim explicatum,Amsterdam,1651,duodez,,Niederlande,52.372430,4.899730
+151,G,Canonistae,Lauren a Dript,Cautio judicalis Praelatorum,Schloss Neuhaus,1684,duodez,,Deutschland,51.744167,8.712778
+152,G,Canonistae,Lauren a Dript,Speculum Archi Diaconale,Schloss Neuhaus,1676,duodez,,Deutschland,51.744167,8.712778
+153,H,Concilia & Canones,-,Concordantia discordantium Canonu,-,-,folio,,-,,
+154,H,Concilia & Canones,-,Decreta Patrum,-,-,folio,,-,,
+155,H,Concilia & Canones,D Gratiani,Decretum,Lyon,1548,folio,,Frankreich,45.752181,4.840823
+156,H,Concilia & Canones,Gregorii IX,Compilatio Decretalium,-,-,folio,,-,,
+157,H,Concilia & Canones,Bonifacii VIII,Liber Sextus Decretalium,Turin,1620,folio,,Italien,45.059405,7.652514
+158,H,Concilia & Canones,Clementis V,Constitutiones,Turin,1620,folio,,Italien,45.059405,7.652514
+159,H,Concilia & Canones,Ioannis XXII,Extravagantes,Turin,1620,folio,,Italien,45.059405,7.652514
+160,H,Concilia & Canones,Clementis V,Constitutiones,-,-,folio,,-,,
+161,H,Concilia & Canones,Clementis V,Liber Sextus Decretalium,-,-,folio,,-,,
+162,H,Concilia & Canones,Clementis V,Institutiones Justiniani,-,-,folio,,-,,
+163,H,Concilia & Canones,"B Clementis Rom, Italienani",Libri Apostolicarum Constitutionum,Antwerpen,1578,folio,,Niederlande,51.222805,4.655059
+164,H,Concilia & Canones,D Gratiani,"Decretum emendatum, una cum glossis Gregorii XIII",Turin,1620,folio,,Italien,45.059405,7.652514
+165,H,Concilia & Canones,Gregorii IX,Decretales,Turin,1621,folio,,Italien,45.059405,7.652514
+166,H,Concilia & Canones,Gregorii IX,Decretales (Eadem adhuc Vetere typo),Turin,1621,folio,,Italien,45.059405,7.652514
+167,H,Concilia & Canones,Carranza,Summa Conciliorum,Lyon,1601,duodez,,Frankreich,45.752181,4.840823
+168,H,Concilia & Canones,-,Concilium Tridentinum,Köln,1621,duodez,,Deutschland,50.947180,6.934628
+169,H,Concilia & Canones,-,Concilium Tridentinum,Liège,1577,duodez,,Niederlande,50.558223,5.725104
+170,H,Concilia & Canones,-,Concilium Tridentinum,-,-,duodez,,-,,
+171,H,Concilia & Canones,Arnaud,Epitome Thesauri Ss Rituum,Lyon,1647,oktodez,,Frankreich,45.752181,4.840823
+172,H,Concilia & Canones,Innocenti III,De sacro Altaris Mysterio,Antwerpen,1550,oktodez,,Niederlande,51.222805,4.655059
+173,H,Concilia & Canones,-,Rituale Romanum abbreviatum,Antwerpen,1657,oktodez,,Niederlande,51.222805,4.655059
+174,I,Theologi,Amort,Dictionarium Selectorum Casuum Conscientiae,Augsburg,1733,folio,,Deutschland,48.369338,10.896842
+175,I,Theologi,Antonii a Spiritu Sto,Directorii Confessariorum,Lyon,1668,folio,,Frankreich,45.752181,4.840823
+176,I,Theologi,Augustini de Ancona,Summa de Potestate Ecclesiastica,-,-,folio,,-,,
+177,I,Theologi,Azorii,Institutionum moralium,Köln,1613,folio,,Deutschland,50.947180,6.934628
+178,I,Theologi,Eligii Bassaei Capuc,Flores totius Theologiae Practicae,Antwerpen,1659,folio,,Niederlande,51.222805,4.655059
+179,I,Theologi,Polanci,Directorium Confessariorum & Paenitentium,Köln,1614,oktodez,,Deutschland,50.947180,6.934628
+180,I,Theologi,Roderici,Compendium Quaestionum Regularium,Köln,1629,oktodez,,Deutschland,50.947180,6.934628
+181,I,Theologi,Tamburini,De Sacrificio Missae,Köln,1661,oktodez,,Deutschland,50.947180,6.934628
+182,I,Theologi,Tamburini,Methodus expeditae Confessionis,Köln,1658,oktodez,,Deutschland,50.947180,6.934628
+183,I,Theologi,Tamburini,Methodus expeditae Confessionis & Communiois,Köln,1666,oktodez,,Deutschland,50.947180,6.934628
+184,I,Theologi,Toleti,Compendium Summae,?,1613,oktodez,,-,,
+185,I,Theologi,Toleti,Compendium Summae,Pont-à-Mousson,1607,oktodez,,Frankreich,48.903005,6.053885
+186,I,Theologi,Ar Westfaliens,In 4 Libros Sententiarum Petri Lombardi,Köln,1563,oktodez,,Deutschland,50.947180,6.934628
+187,K,Controversistae,Arcudii,Libri Septem de Concordia Ecclesia Orientalis & Occidentalis,Paris,1626,folio,,Frankreich,48.859116,2.331839
+188,K,Controversistae,Bellarmini,Disputationes de Controversiis Fidei Christianae,Köln,1628,folio,,Deutschland,50.947180,6.934628
+189,K,Controversistae,Cocci,Thesauri Catholici,Köln,1601,folio,,Deutschland,50.947180,6.934628
+190,K,Controversistae,Fabri,Apologeticus Doctrinae moralis Societatis Jesu,Köln,1672,folio,,Deutschland,50.947180,6.934628
+191,K,Controversistae,Tympii,Widerlegung der Hussiten,Paderborn,1605,duodez,,Deutschland,51.718539,8.740642
+192,K,Controversistae,Walenburg,Methodus Augustiniana defendendi Fidem,Köln,1645,duodez,,Deutschland,50.947180,6.934628
+193,K,Controversistae,Weber,Libellus Controversarium,Köln,1708,duodez,,Deutschland,50.947180,6.934628
+194,K,Controversistae,-,Religionis Rom Catholicae Fundamenta,Hildesheim,1705,duodez,,Deutschland,52.152573,9.949490
+195,K,Controversistae,Becani,Compendium Manualis Controversiarum,Luxemburg,1625,oktodez,,Niederlande,50.881011,4.710309
+196,K,Controversistae,Becani,Compendium Manualis Controversiarum,Douai,1626,oktodez,,Frankreich,50.373162,3.082580
+197,K,Controversistae,Coturii,Epitome Controversiarum,Köln,1645,oktodez,,Deutschland,50.947180,6.934628
+198,K,Controversistae,Michaelis,Brillen-Kästlein,Münster,1593,oktodez,,Deutschland,51.954044,7.624747
+199,L,Philisophi,Suarez,Metaphysicarum Disputationum,Mainz,1605,folio,,Deutschland,49.997895,8.253032
+200,L,Philisophi,D Thomae Aquin,Expositio in Libros Aristotelis,Antwerpen,1612,folio,,Niederlande,51.222805,4.655059
+201,L,Philisophi,Abra de Raconis,Summa totius Philosophiae,Köln,1629,quart,,Deutschland,50.947180,6.934628
+202,L,Philisophi,Metochitae,Philosophia,Basel,1559,quart,,Schweiz,47.557104,7.597813
+203,L,Philisophi,Petri a S. Ioseph,Philosophiae,Köln,1655,duodez,,Deutschland,50.947180,6.934628
+204,L,Philisophi,Reeb,Dialectica,Köln,1642,duodez,,Deutschland,50.947180,6.934628
+205,L,Philisophi,Reeb,Distinctiones & Axiomata Philosophiae,Köln,1642,duodez,,Deutschland,50.947180,6.934628
+206,L,Philisophi,Reeb,Distinctiones Philosophica,Köln,1631,duodez,,Deutschland,50.947180,6.934628
+207,L,Philisophi,Reeb,Distinctiones & Axiomata,Köln,1682,duodez,,Deutschland,50.947180,6.934628
+208,L,Philisophi,Reeb,Logica & Physica,-,-,oktodez,,-,,
+209,L,Philisophi,Rami,Dialectica,Hannover,1619,oktodez,,Deutschland,52.379952,9.787455
+210,L,Philisophi,Thierry,Definitiones Philosophicae,Köln,1664,oktodez,,Deutschland,50.947180,6.934628
+211,M,Juristae,Ayren,"Historicus Processus Juris, Luciferi contra Jesum (germanice)",Frankfurt,1597,folio,,Deutschland,50.041821,8.584764
+212,M,Juristae,Bartoli,Commentaria in Institutiones Juris Civilis,Basel,1562,folio,,Schweiz,47.557104,7.597813
+213,M,Juristae,Bertrandi,Consiliorum,Frankfurt,1619,folio,,Deutschland,50.041821,8.584764
+214,M,Juristae,Brand,Layen-Spiegel von rechtmäßigen Ordnungen in bürgerligen und peinlichen Regiment,-,-,folio,,-,,
+215,M,Juristae,Bruni,Consiliorum Feudalium Volumen,Frankfurt,1573,folio,,Deutschland,50.041821,8.584764
+216,M,Juristae,Bruni,Consiliorum Feudalium Volumen,Frankfurt,1578,folio,,Deutschland,50.041821,8.584764
+217,M,Juristae,Cahl,Lexicon Juris Civilis & Canonici,Hannover,1619,folio,,Deutschland,52.379952,9.787455
+218,M,Juristae,Caldaspercyra,Commentarius Analyticus,Antwerpen,1622,folio,,Niederlande,51.222805,4.655059
+219,M,Juristae,Connani,Commentariorum Juris Civilis Libri 10,Basel,1562,folio,,Schweiz,47.557104,7.597813
+220,M,Juristae,Contii,Libri Constitutionum Novellarum Authenticarum,-,-,folio,,-,,
+221,M,Juristae,Cothman,Responsorum Juris,Frankfurt,1616,folio,,Deutschland,50.041821,8.584764
+222,M,Juristae,Cuiacii,Opera de Jure Civili,Frankfurt,1595,folio,,Deutschland,50.041821,8.584764
+223,N,Concionatores,Barcias,Christianus Animarum Excitator (latine),Augsburg,1771,folio,,Deutschland,48.369338,10.896842
+224,N,Concionatores,Barcias,Christianus Animarum Excitator (germanice),Augsburg,1771,folio,,Deutschland,48.369338,10.896842
+225,N,Concionatores,Barcias,Mariale & Sanctorale (germ),Augsburg,1718,folio,,Deutschland,48.369338,10.896842
+226,N,Concionatores,Barcias,Sacramentale (germ),Augsburg,1720,folio,,Deutschland,48.369338,10.896842
+227,N,Concionatores,Berchorii,Reductorii moralis,Mainz,1609,folio,,Deutschland,49.997895,8.253032
+228,N,Concionatores,Fernardini a ustis Cap,Mariale,-,-,folio,,-,,
+229,N,Concionatores,Breteville,Predig-Muster,Augsburg,1754,folio,,Deutschland,48.369338,10.896842
+230,N,Concionatores,Bessaei,Neue Vollkommene Postilla,Köln,1637,folio,,Deutschland,50.947180,6.934628
+231,N,Concionatores,Bessaei,Neue Vollkommene Postilla (eadem germanice),München,1617,folio,,Deutschland,48.152126,11.544467
+232,N,Concionatores,Bodler,Fest und Feyertäglicher Predig-Curs,Dillingen,1683,folio,,Deutschland,49.353052,6.741668
+233,N,Concionatores,Bonaventurae Recanati Cap,Tubae Apostolicae,Augsburg,1736,folio,,Deutschland,48.369338,10.896842
+234,N,Concionatores,Casini,Samuel Ecclesiastes,Augsburg,1743,folio,,Deutschland,48.369338,10.896842
+235,N,Concionatores,Causini,Dissertationes in Libros Regum,Paris,1650,folio,,Frankreich,48.859116,2.331839
+236,N,Concionatores,Claus,Manuductio in Barciam Dom le & Fest le,Augsburg,1727,folio,,Deutschland,48.369338,10.896842
+237,N,Concionatores,Claus,Spicilegium in Dominicas & Festa,Augsburg,1733,folio,,Deutschland,48.369338,10.896842
+238,N,Concionatores,Claus,Spicilegium Catechetico Concionatorium,Augsburg,1746,folio,,Deutschland,48.369338,10.896842
+239,N,Concionatores,Claus,Saft-Prediger,Augsburg,1746,folio,,Deutschland,48.369338,10.896842
+240,N,Concionatores,Clementis Burghus Cap,Sepraphisches Buß- und Lob-anstimmendes Wald-lerchlein D & F,Regensburg,1737,folio,,Deutschland,49.021388,12.114729
+241,N,Concionatores,Columbiere,Außerlesene Sinn- und geistreiche Predigen,Nürnberg,1726,folio,,Deutschland,49.446007,11.079770
+242,N,Concionatores,Drexelii,Operum,Antwerpen,1660,folio,,Niederlande,51.222805,4.655059
+243,N,Concionatores,Avancini,Orationes,Köln,1680,duodez,,Deutschland,50.947180,6.934628
+244,N,Concionatores,Avancini,Orationes,Köln,1688,duodez,,Deutschland,50.947180,6.934628
+245,N,Concionatores,Drachter,Concionator extemporalis,Köln,1652,duodez,,Deutschland,50.947180,6.934628
+246,N,Concionatores,Eburensis,Sententiarum,Mainz,1602,duodez,,Deutschland,49.997895,8.253032
+247,N,Concionatores,Hibini,Flores omnium pene Doctorum,Lyon,1558,duodez,,Frankreich,45.752181,4.840823
+248,N,Concionatores,Iois a Jesu Mra,Ars Concionandi,Köln,1590,duodez,,Deutschland,50.947180,6.934628
+249,N,Concionatores,Voello,Index in Breviarium Romanum ad formandas Conciones,Mainz,1614,duodez,,Deutschland,49.997895,8.253032
+250,N,Concionatores,Voss,Manipulus sacer Concionum moralium,Antwerpen,1644,duodez,,Niederlande,51.222805,4.655059
+251,O,Catechistae,Canisii,Opus Catecheticum,Köln,1606,folio,,Deutschland,50.947180,6.934628
+252,O,Catechistae,Nyder,De Praeceptis Decalogi,-,-,folio,,-,,
+253,O,Catechistae,Dauroultii,Catechismi Historialis,Köln,1616,quart,,Deutschland,50.947180,6.934628
+254,O,Catechistae,Canisii,Catechismi,Köln,1569,quart,,Deutschland,50.947180,6.934628
+255,O,Catechistae,Erhards,"Christliches Haus-Buch, oder das grosse Leben Christi",Augsburg,1727,quart,,Deutschland,48.369338,10.896842
+256,O,Catechistae,Ferler,Catechismus (germ),Augsburg,1732,quart,,Deutschland,48.369338,10.896842
+257,O,Catechistae,Kolb,Catholischen Hauß-Buchs,Köln,1650,quart,,Deutschland,50.947180,6.934628
+258,O,Catechistae,Ludovic Gr?,Catechismus - introductiones ad Symbolu fidei,Köln,1602,quart,ja,Deutschland,50.947180,6.934628
+259,O,Catechistae,Turlot,Thesaurus Doctrinae Christinae,Köln,1737,quart,,Deutschland,50.947180,6.934628
+260,O,Catechistae,Wittweilers,Catholisches Hauß-Buch,Köln,1650,quart,,Deutschland,50.947180,6.934628
+261,O,Catechistae,-,Catechismus Romanus,Köln,1572,quart,,Deutschland,50.947180,6.934628
+262,O,Libri Exorcismorum,Di Cilia,Thesaurus Benedictionum & Exorcismorum,Augsburg,1733,oktav,,Deutschland,48.369338,10.896842
+263,O,Libri Exorcismorum,Maximiliani ab Einatten,Manuale Exorcismurum,Antwerpen,1678,duodez,,Niederlande,51.222805,4.655059
+264,O,Libri Exorcismorum,Maximiliani ab Einatten,Manuale Exorcismurum,Antwerpen,-,duodez,,Niederlande,51.222805,4.655059
+265,O,Libri Exorcismorum,Martini Cochem Cap,Liber Exorcismorum & Infirmorum,Frankfurt,1699,duodez,,Deutschland,50.041821,8.584764
+266,O,Libri Exorcismorum,Maximiliani a Capellis Cap,Circulus aureus,Venedig,1650,duodez,,Italien,45.581192,12.561157
+267,O,Libri Exorcismorum,-,Thesaurus Exorcismorum,Köln,1626,oktav,,Deutschland,50.947180,6.934628
+268,O,Libri Exorcismorum,-,Enchiridion sacrorum Rituum,Prag,1616,oktav,,Deutschland,50.066940,14.460249
+269,O,Libri Exorcismorum,-,Liber Exorcismorum,-,-,duodez,,-,,
+270,P,Historici Sacri,Duranti,"Revelationes S Brigittae, notis illustratae",Antwerpen,1611,folio,,Niederlande,51.222805,4.655059
+271,P,Historici Sacri,Giry,Leben der Heiligen,Augsburg,1730,folio,,Deutschland,48.369338,10.896842
+272,P,Historici Sacri,Godefrid Hermant,Leben des  hl. Athanasius 12 Bücher,?,1741,folio,ja,-,,
+273,P,Historici Sacri,Gumpenberg,Atlas Marianus,München,1672,folio,,Deutschland,48.152126,11.544467
+274,P,Historici Sacri,Haraei,De Vitis Sanctorum Compendium,Köln,1605,folio,,Deutschland,50.947180,6.934628
+275,P,Historici Sacri,Hiebers,Religionis Historia,Augsburg,1726,folio,,Deutschland,48.369338,10.896842
+276,P,Historici Sacri,Jussani,Leben und Thaten S Caroli Borromaei,Freiburg,1618,folio,,Deutschland,47.997189,7.853770
+277,P,Historici Sacri,Avancini,Leben Christi,Köln,1697,duodez,,Deutschland,50.947180,6.934628
+278,P,Historici Sacri,Hevenesi,Ars bonae Mortis,Köln,1708,duodez,,Deutschland,50.947180,6.934628
+279,P,Historici Sacri,Nadasi,Anni Caelestis,Köln,1667,duodez,,Deutschland,50.947180,6.934628
+280,P,Historici Sacri,Raderi,De Vita Petri Canisii,Antwerpen,1615,duodez,,Niederlande,51.222805,4.655059
+281,P,Historici Sacri,Tursellini,Lauretana Historia,Köln,1612,duodez,,Deutschland,50.947180,6.934628
+282,P,Historici Sacri,Vitting,VIta B Josephi a Cupertino,Köln,1695,duodez,,Deutschland,50.947180,6.934628
+283,P,Historici Sacri,-,"Historica Narratio Conversionis & Conversationes F Archangeli Scoti Capuc, & Margarethae Gordon Matris Ejus",-,-,duodez,,-,,
+284,P,Historici Sacri,-,Innhalt der Lehr und Thaten Venerabilis P Marci ab Aviano Capucini,Bamberg,1681,duodez,,Deutschland,49.895431,10.897137
+285,P,Historici Sacri,-,Heiliger Lebenswandel des H Bischoffs und Martyrers Blasii,Paderborn,1744,duodez,,Deutschland,51.718539,8.740642
+286,P,Historici Sacri,-,Vitae Sanctorum,Fulda,1697,duodez,,Deutschland,50.555809,9.680845
+287,P,Historici Sacri,-,Calendarium Sanctorum (fredecies),Hildesheim,1713,duodez,,Deutschland,52.152573,9.949490
+288,P,Historici Sacri,-,Indulgentiae Ecclesiarum Urbis Romae,-,-,duodez,,-,,
+289,Q,Historici Profani,Foresti,Historische Weltkarte,Augsburg,1741,folio,,Deutschland,48.369338,10.896842
+290,Q,Historici Profani,Fuggerii,Byzantinae Historiae Libri 11,Frankfurt,1568,folio,,Deutschland,50.041821,8.584764
+291,Q,Historici Profani,Laonici Chalconi,Historiae de Origine & gestis Turcarum in eadem Compact,Frankfurt,1568,folio,,Deutschland,50.041821,8.584764
+292,Q,Historici Profani,Nicetae Acominati,Historiae ab Anno MCXVII usque ad Annum MCCII,Frankfurt,1568,folio,,Deutschland,50.041821,8.584764
+293,Q,Historici Profani,Iois Zonarae,Annales,Frankfurt,1568,folio,,Deutschland,50.041821,8.584764
+294,Q,Historici Profani,Gotofredi,Archontologia Cosmica,Frankfurt,1638,folio,,Deutschland,50.041821,8.584764
+295,Q,Historici Profani,Guler,Beschreibung der Rhaetischen Völckeren,Augsburg,1616,folio,,Deutschland,48.369338,10.896842
+296,Q,Historici Profani,Bisselii,Argonauticon Americanorum,München,1647,oktodez,,Deutschland,48.152126,11.544467
+297,Q,Historici Profani,Blocii,Historiae per Saturam,Rostock,1625,oktodez,,Deutschland,54.084592,12.088019
+298,Q,Historici Profani,Carionis,Historiae,Lyon,1560,oktodez,,Frankreich,45.752181,4.840823
+299,Q,Historici Profani,Cornelii Taciti,Annales,Amsterdam,1601,oktodez,,Niederlande,52.372430,4.899730
+300,Q,Historici Profani,Justini,Epitome Historiarum Philippicarum,-,1606,oktodez,,-,,
+301,Q,Historici Profani,Justini,Item Historiarum Libri XLIIII,-,1606,oktodez,,-,,
+302,Q,Historici Profani,Soranci,De rebus Turcicis,-,1600,oktodez,,-,,
+303,Q,Historici Profani,Valerii Max,Exempla,Köln,1564,oktodez,,Deutschland,50.947180,6.934628
+304,Q,Historici Profani,Valerii Max,Dictoru Factorumq mirabiliu Libri IX,Amsterdam,1651,oktodez,,Niederlande,52.372430,4.899730
+305,Q,Historici Profani,Tiberti,Res gestae Graecorum & Romanorum,-,1608,oktodez,,-,,
+306,Q,Historici Profani,-,Breviarium Chronologiae Christianae,Würzburg,1672,oktodez,,Deutschland,49.784984,9.941828
+307,Q,Historici Profani,-,Respublica & Status Imperii Romano-Germanici,Lyon,1634,oktodez,,Frankreich,45.752181,4.840823
+308,Q,Historici Profani,-,Descriptio Moscoviae,Lyon,1630,oktodez,,Frankreich,45.752181,4.840823
+309,Q,Historici Profani,-,Descriptio Galliae,-,-,oktodez,,-,,
+310,Q,Historici Profani,-,Descriptio Scotiae & Hyberniae,-,1627,oktodez,,-,,
+311,Q,Historici Profani,-,De Republica Helvetiorum,-,1627,oktodez,,-,,
+312,Q,Historici Profani,-,De Republica Hollandiae,-,1730,oktodez,,-,,
+313,R ,Miscellanei,Aldrovandi,Ornithologia seu Historiae de Avibus,Frankfurt,1610,folio,,Deutschland,50.041821,8.584764
+314,R ,Miscellanei,Auli Gellii,Noctium Atticularum Commentarii,-,-,folio,,-,,
+315,R ,Miscellanei,Becher,"Parnassus Medicinalis illustratus d i Thier-Kräuter-Berg-Buch, sampt der Salernitanischen Schul","Ulm, Deutschland",-,folio,,Deutschland,48.396637,9.964547
+316,R ,Miscellanei,Bellantii,Astrologiae Defensio contra Joem Picum,Basel,1554,folio,,Schweiz,47.557104,7.597813
+317,R ,Miscellanei,Henr Cornelii,De occulta Philosophia,-,-,folio,,-,,
+318,R ,Miscellanei,Beyerlinck,Theatrum vitae humanae 7 part,Köln,1631,folio,ja,Deutschland,50.947180,6.934628
+319,R ,Miscellanei,Bonajuti,Von Vestung bauen,Frankfurt,1621,folio,,Deutschland,50.041821,8.584764
+320,R ,Miscellanei,La Caelii,Lectiones Antiquae,Basel,1550,folio,,Schweiz,47.557104,7.597813
+321,R ,Miscellanei,Chaffanaei,Catalogus gloriae mundi,Genf,1617,folio,,Schweiz,46.195930,6.128052
+322,R ,Miscellanei,Cressolii,Mystagogus de Sacrorum Houm Disciplina,Paris,1629,folio,,Frankreich,48.859116,2.331839
+323,R ,Miscellanei,Plinii 2di,Historiae Mundi,-,1593,duodez,,-,,
+324,R ,Miscellanei,Puffendorff,Einleitung zur Sitten- und Staats-Lehre,Leipzig,1702,duodez,,Deutschland,51.341053,12.404024
+325,R ,Miscellanei,Schreger,Studiosus Jovialis,München,1749,duodez,,Deutschland,48.152126,11.544467
+326,R ,Miscellanei,Tympii,Conviviorum Pulpamenta & Condimenta,Münster,1629,duodez,,Deutschland,51.954044,7.624747
+327,R ,Miscellanei,-,De Regno rite administrando,-,1578,duodez,,-,,
+328,R ,Miscellanei,-,Quaesita & Responsa Eruditorum,Paderborn,-,duodez,,Deutschland,51.718539,8.740642
+329,R ,Miscellanei,-,Doctrina Civilis,-,-,duodez,,-,,
+330,R ,Miscellanei,-,Juden-Spiegel,Köln,1714,duodez,,Deutschland,50.947180,6.934628
+331,R ,Miscellanei,Fredro,Monita Politico-Moralia,Frankfurt,1703,oktodez,,Deutschland,50.041821,8.584764
+332,R ,Miscellanei,Salben,Der Zum Zweyten mahl vermehrter hossmässiger Cantzelist,Köln,1666,oktodez,,Deutschland,50.947180,6.934628
+333,R ,Miscellanei,Johann August Grohans,?,Leipzig,1762,oktodez,,Deutschland,51.341053,12.404024
+334,R ,Miscellanei,-,Novum Lumen Chymicum,Köln,1625,oktodez,,Deutschland,50.947180,6.934628
+335,R ,Miscellanei,-,Symbola Heroica,-,-,oktodez,,-,,
+336,R ,Miscellanei,-,Anweiser Brieffe Zu Schreiben,-,-,oktodez,,-,,
+337,S,Rhetores,Budaei,Commentarii Linguae Graecae,Köln,1530,folio,,Deutschland,50.947180,6.934628
+338,S,Rhetores,Calepini,Dictionarium octo Linguaru,Basel,-,folio,,Schweiz,47.557104,7.597813
+339,S,Rhetores,Calepini,Dictionarium octo Linguaru,Basel,1534,folio,,Schweiz,47.557104,7.597813
+340,S,Rhetores,Ciceronis,Rhetorica,-,-,folio,,-,,
+341,S,Rhetores,Frisii,Dictionarium Latino Germanicum,Zürich,1574,folio,,Schweiz,47.390129,8.661000
+342,S,Rhetores,Iois Januensis,Catholicon,-,-,folio,,-,,
+343,S,Rhetores,Ciceronis,Philippicae,Paris,-,quart,,Frankreich,48.859116,2.331839
+344,S,Rhetores,Rob,Supplementum Linguae Latinae,-,-,quart,,-,,
+345,S,Rhetores,Suarini,Vocabularium,-,-,quart,,-,,
+346,S,Rhetores,-,Dictionarium,-,-,quart,,-,,
+347,S,Rhetores,-,Institutiones Hebraicae,-,-,quart,,-,,
+348,S,Rhetores,Aldimanutii,Ortographiae ratio,Antwerpen,1564,duodez,,Niederlande,51.222805,4.655059
+349,S,Rhetores,Bidermanni,Utopia,Köln,1649,duodez,,Deutschland,50.947180,6.934628
+350,S,Rhetores,Bomplani,Orationes,Dillingen,1685,duodez,,Deutschland,49.353052,6.741668
+351,S,Rhetores,Bomplani,Historia Pontificatus Gregorii XIII,Dillingen,1685,duodez,,Deutschland,49.353052,6.741668
+352,S,Rhetores,Buchleri,Thesaurus conscribendaru Epistolarum,Köln,1687,duodez,,Deutschland,50.947180,6.934628
+353,S,Rhetores,Gogger,Antonias ter laureata,Wien,1711,duodez,,Österreich,48.198674,16.348388
+354,S,Rhetores,Morelli,Enchiridion oratorium,Köln,1661,duodez,,Deutschland,50.947180,6.934628
+355,S,Rhetores,Adolphi Xorvegi,Medulla oratoria,Frankfurt,1663,duodez,,Deutschland,50.041821,8.584764
+356,S,Rhetores,Oven,Epigrammaton,Amsterdam,1634,duodez,,Niederlande,52.372430,4.899730
+357,S,Rhetores,Pomey,Novus Candidatus Rhetoricae,Paris,1681,duodez,,Frankreich,48.859116,2.331839
+358,S,Rhetores,Vernulei,Orationes,Köln,1618,duodez,,Deutschland,50.947180,6.934628
+359,S,Rhetores,Vernulei,Orationes,Köln,1688,duodez,,Deutschland,50.947180,6.934628
+360,S,Rhetores,Ulneri,Flores elegantissimarum Phrasium,Roermond,1610,duodez,,Niederlande,51.194437,6.005838
+361,S,Rhetores,Voellii,Generale Artificium Orationis,Köln,1611,duodez,,Deutschland,50.947180,6.934628
+362,S,Rhetores,-,Parvum Dictionarium 7. Linguarum,Liège,1598,duodez,,Niederlande,50.558223,5.725104
+363,S,Rhetores,-,Sententiae Ciceronis,-,-,duodez,,-,,
+364,S,Rhetores,-,Acroamata,-,-,duodez,,-,,
+365,T,Poetae,Commiri,Carminum Libri tres,Paris,1678,folio,,Frankreich,48.859116,2.331839
+366,T,Poetae,Mantuani,Poemata moralia,-,-,folio,,-,,
+367,T,Poetae,Textoris,Specimen Epithetorum,Paris,1518,folio,,Frankreich,48.859116,2.331839
+368,T,Poetae,-,Typicus Hieropolitarcha in Antitypo expressus,Paderborn,-,folio,,Deutschland,51.718539,8.740642
+369,T,Poetae,Reineccii,Annales de Gestis Caroli M (carminice),Helmstedt,1594,folio,,Deutschland,52.229401,11.006095
+370,T,Poetae,Sangrini,Paraphrasis in Psalterium Davidis,Basel,-,folio,,Schweiz,47.557104,7.597813
+371,T,Poetae,Brand,Carmina,-,-,oktav,,-,,
+372,T,Poetae,Prudentii,Opera,-,-,oktav,,-,,
+373,T,Poetae,Langii,Carmina latina sacra Ejusq Poemata,Basel,1565,oktav,,Schweiz,47.557104,7.597813
+374,T,Poetae,Mantuani,Opera,-,-,oktav,,-,,
+375,T,Poetae,Publii Fausti,Carmina,-,-,oktav,,-,,
+376,T,Poetae,Martialis,Epigrammata,-,-,duodez,,-,,
+377,T,Poetae,Nomessii,Parnassi Poetici,Köln,1604,duodez,,Deutschland,50.947180,6.934628
+378,T,Poetae,Sarbievii,Lyricorum Libri IV,Köln,1659,duodez,,Deutschland,50.947180,6.934628
+379,T,Poetae,Sautel,Lusus Poetici Allegorici,Lyon,1656,duodez,,Frankreich,45.752181,4.840823
+380,T,Poetae,Sautel,Lusus Poetici Allegorici,Mainz,1676,duodez,,Deutschland,49.997895,8.253032
+381,T,Poetae,Ovidii,Metamorphoseon Libri XV,Basel,1546,duodez,,Schweiz,47.557104,7.597813
+382,T,Poetae,Ovidii,"Item Libri Fastorum, Tristium &c",Douai,1619,duodez,,Frankreich,50.373162,3.082580
+383,T,Poetae,Wissing,"Speculum Humilitatis Religiosae, 2c SPN Francisci",Mainz,-,duodez,,Deutschland,49.997895,8.253032
+384,T,Poetae,-,"Selectorum Carminum, Veterum Poetarum",Köln,1596,duodez,,Deutschland,50.947180,6.934628
+385,U,Libri Gallici,le Petit,Le grande Chronicque,Dordrecht,1601,folio,,Niederlande,51.799570,4.671127
+386,U,Libri Gallici,Caussin,Lo Cour Sainte,Paris,1630,quart,,Frankreich,48.859116,2.331839
+387,U,Libri Gallici,P Laurentii a Paris,Le Palais de l'Amour Divin &c,Paris,1614,quart,,Frankreich,48.859116,2.331839
+388,U,Libri Gallici,de Montaigne,Les Essais,Paris,1617,quart,,Frankreich,48.859116,2.331839
+389,U,Libri Gallici,Nicod,Le grand Dictionaire Francois-Latin,Lyon,1625,quart,,Frankreich,45.752181,4.840823
+390,U,Libri Gallici,Ravelli,"Dictionaire Francois, Teutsch, und Italianisch",Frankfurt,1616,quart,,Deutschland,50.041821,8.584764
+391,U,Libri Gallici,Surii,Le pieux Pelegrin ou Voyage de Jerusalem,Brüssel,1666,quart,,Niederlande,50.901142,4.458387
+392,U,Libri Gallici,Veneroni,"Dictionaire Imperial, Francois-Ital-Latin",Frankfurt,1714,quart,,Deutschland,50.041821,8.584764
+393,U,Libri Gallici,Veneroni,Dictionarium Caesareum,Frankfurt,1714,quart,,Deutschland,50.041821,8.584764
+394,U,Libri Gallici,de Seyffel,L'Histoire de Thucidide,Paris,1545,duodez,,Frankreich,48.859116,2.331839
+395,U,Libri Gallici,Thomas Kemp,De l'Imitation de Jesus Christ,Paris,1624,duodez,,Frankreich,48.859116,2.331839
+396,U,Libri Gallici,Thomas Kemp,De l'Imitation de Jesus Christ,Douai,1616,duodez,,Frankreich,50.373162,3.082580
+397,U,Libri Gallici,-,Le Secretaire de ce tems contenant des Litters,Frankfurt,1670,duodez,,Deutschland,50.041821,8.584764
+398,U,Libri Gallici,-,Le Vie admirable Catherine d'Adorny,Douai,1600,duodez,,Frankreich,50.373162,3.082580
+399,U,Libri Gallici,-,Les saints devoirs de l'Ame devote,Paris,1666,duodez,,Frankreich,48.859116,2.331839
+400,U,Libri Gallici,-,Constitutiones Capucinorum,Paris,1590,duodez,,Frankreich,48.859116,2.331839
+401,U,Libri Gallici,-,Le Trompette Francois,-,-,duodez,,-,,
+402,U,Libri Gallici,-,Exercice de Devotion,Paris,1655,duodez,,Frankreich,48.859116,2.331839
+403,U,Libri Gallici,-,Points 58 d'Humilite,Liège,1611,duodez,,Niederlande,50.558223,5.725104
+404,U,Libri Gallici,-,Miroir de la Vie Chrestienne,Douai,1624,duodez,,Frankreich,50.373162,3.082580
+405,U,Libri Gallici,-,Janua Linguarum,-,-,duodez,,-,,
+406,U,Libri Gallici,-,Exposition litterale de la Regle des FF Mineurs,Paris,1625,oktodez,,Frankreich,48.859116,2.331839
+407,U,Libri Gallici,-,"Le petit miroir du Catholique, & de l'Heretique",Rouen,-,oktodez,,Frankreich,49.439185,1.092472
+408,U,Libri Gallici,-,La Conversion & saintes Meditations de la Maria Magdalena,Liège,1633,oktodez,,Niederlande,50.558223,5.725104
+409,W,Libri Italici &c,R E Francisc Mra Cassini Cap & Card,Delle Prediche,"Rom, Italien",1713,folio,,Italien,41.878243,12.528090
+410,W,Libri Italici &c,M Galasso,Delle Fortificationi,-,1570,folio,,-,,
+411,W,Libri Italici &c,-,Biblia Hispanica,-,1569,quart,,-,,
+412,W,Libri Italici &c,De Constantino Notari Nolano,Del Duelle dell Ignoranza e della Scienzia,Mailand,1608,quart,,Italien,45.473702,9.170685
+413,W,Libri Italici &c,Giovanni,Delle Istorie del Mondo,Venedig,1585,quart,,Italien,45.581192,12.561157
+414,W,Libri Italici &c,Segneri,Quarefirnale,Venedig,1712,quart,,Italien,45.581192,12.561157
+415,W,Libri Italici &c,Albrizo,Prediche fatte nel Palazzo,Venedig,1652,quart,,Italien,45.581192,12.561157
+416,W,Libri Italici &c,J Bono,La Palma spiccata de sassi col motto,Hannover,1680,quart,,Deutschland,52.379952,9.787455
+417,W,Libri Italici &c,Cadana,Quarefirnale,Venedig,1639,quart,,Italien,45.581192,12.561157
+418,W,Libri Italici &c,Doglioni,Del Theatro del Mondo,Venedig,1606,quart,,Italien,45.581192,12.561157
+419,W,Libri Italici &c,Neustro,Primera segunda de la Araucana,"Barcelona, Spanien",1592,duodez,,Spanien,41.400347,2.159592
+420,W,Libri Italici &c,Neustro,Quarta parte,"Barcelona, Spanien",1598,duodez,,Spanien,41.400347,2.159592
+421,W,Libri Italici &c,P Paolo,Idea di vero Amico,Lyon,1640,duodez,,Frankreich,45.752181,4.840823
+422,W,Libri Italici &c,Pelinger,E Stilo y Methodo escrivir Cartas Missivas,Brüssel,1608,duodez,,Niederlande,50.901142,4.458387
+423,W,Libri Italici &c,Pinelli,Meditationi divotissime,Venedig,1617,duodez,,Italien,45.581192,12.561157
+424,W,Libri Italici &c,Pinelli,Del Sacramento della Paenitentia,Venedig,1617,duodez,,Italien,45.581192,12.561157
+425,W,Libri Italici &c,Overo,Gierusalemme liberata,Venedig,1595,duodez,,Italien,45.581192,12.561157
+426,W,Libri Italici &c,Overo,Le cette Giornale del Mondo creato,Venedig,1608,duodez,,Italien,45.581192,12.561157
+427,W,Libri Italici &c,Ridderi,Nüttige Tyd-Koerter,Rotterdam,1664,duodez,,Niederlande,51.922780,4.475780
+428,W,Libri Italici &c,Segneri,La Manna del Anima,Venedig,1720,duodez,,Italien,45.581192,12.561157
+429,W,Libri Italici &c,Thomas Kemp,De Navolginghe Christi,Antwerpen,1610,duodez,,Niederlande,51.222805,4.655059
+430,W,Spanici & Belgici &c,Veneroni,Le Maitre Italien,Venedig,1690,duodez,,Italien,45.581192,12.561157
+431,W,Spanici & Belgici &c,Vivre,Dialogues Flamen-Francois,Rotterdam,1601,duodez,,Niederlande,51.922780,4.475780
+432,W,Spanici & Belgici &c,Wallenburg,Den Eenvoeldigen Catholyck,Antwerpen,1665,duodez,,Niederlande,51.222805,4.655059
+433,W,Spanici & Belgici &c,-,Il nuovo ed eterno Testamento,Lyon,1551,duodez,,Frankreich,45.752181,4.840823
+434,W,Spanici & Belgici &c,-,Divoto Stradamento per Consolazione,"Rom, Italien",1719,duodez,,Italien,41.878243,12.528090
+435,W,Spanici & Belgici &c,-,Het Hand-Boexken der Sodaliteit BMV,Antwerpen,1611,duodez,,Niederlande,51.222805,4.655059
+436,W,Spanici & Belgici &c,-,Christelicke Maneire van Bidden,Antwerpen,1719,duodez,,Niederlande,51.222805,4.655059
+437,W,Spanici & Belgici &c,-,Christelicke Gebeden,Antwerpen,-,duodez,,Niederlande,51.222805,4.655059
+438,W,Spanici & Belgici &c,-,Dictionaire en quarte Langues Flamen-Francois-Espaignol & Italien,Antwerpen,1565,duodez,,Niederlande,51.222805,4.655059
+439,W,Spanici & Belgici &c,-,"Narratione del Successo Della Missione d'Frati Capucini, al Regno del Congo",Macerata,1628,duodez,,Italien,43.204651,13.232658
+440,W,Spanici & Belgici &c,-,Il Nipotismo di Roma,-,1667,duodez,,-,,
